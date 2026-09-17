@@ -1,2 +1,2 @@
 # arise_register
-An Attendance records application for arise and shine glory entebbe
+An Attendance records application for arise and shine glory entebbe built with Flutter 
